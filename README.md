@@ -1,17 +1,38 @@
-### Hello World!! Me chamo Matheus Felipe, e sou Desenvolvedor Back-End 👋
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusfelipe20&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfelipe20&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">
+  <img src="https://i.imgur.com/Xdc5xWr.png" alt="Foto de Perfil">
+</p>
+
+# Olá, me chamo Matheus Felipe 😉👋🏼
+Bem vindo ao meu espaço no GitHub! Atualmente sou **Web Developer (Desenvolvedor Web)** atuando como Full Stack, mas principalmente como Front-End.
+
+## 👔 Atuação Profissional
+  - Desenvolvedor Web - Estagiário | ServiceNet **(abril/2022 - atualmente)**
+  - Desenvolvedor Full Stack - Voluntário | Universi.me | UFPB **(maio/2023 - atualmente)**
+  - Desenvolvedor Web - Bolsista | AYTY | UFPB **(abril/2022 - atualmente)**
+
+## 🔧 Habilidades
+
+- **Linguagens de Programação:**
+  - Vue.js | React | JavaScript | HTML | CSS | Golang | TypeScript
+    
+- **Ferramentas e Tecnologias:**
+  - Docker | PostgreSQL | MySQL | Microsserviços
+  
+<div>
+  <img align="center" alt="icon-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="icon-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="icon-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="icon-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="icon-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="icon-golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+  <img align="center" alt="icon-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="icon-docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="icon-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="icon-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Matheus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Matheus-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Matheus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Matheus-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-</div>
-  <br />
-<div> 
-  <a href="https://www.linkedin.com/in/matheus-felipe-bandeira-oliveira-30a6b8206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+## 📬 Entre em Contato
+<a href="https://www.linkedin.com/in/matheus-felipe-bandeira-oliveira-30a6b8206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:matheusfelipemf2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-White?style=for-the-badge&logo=gmail&color=white" target="_blank"></a>
+
+Sinta-se à vontade para explorar meus repositórios e projetos. 😃
