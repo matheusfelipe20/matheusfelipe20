@@ -32,7 +32,7 @@ Bem vindo ao meu espaço no GitHub! Atualmente sou **Web Developer (Desenvolvedo
 </div>
 
 ## 📬 Entre em Contato
-<a href="www.linkedin.com/in/matheus-felipe-30a6b8206" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-felipe-30a6b8206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="mailto:matheusfelipemf2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-White?style=for-the-badge&logo=gmail&color=white" target="_blank"></a>
 
 Sinta-se à vontade para explorar meus repositórios e projetos. 😃
