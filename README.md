@@ -3,12 +3,13 @@
 </p>
 
 # Olá, me chamo Matheus Felipe 😉👋🏼
-Bem vindo ao meu espaço no GitHub! Atualmente sou **Web Developer (Desenvolvedor Web)** atuando como Full Stack, mas principalmente como Front-End.
+Bem vindo ao meu espaço no GitHub! 
+Eu sou formado em Sistemas de Informação (UFPB), e tenho experiência atuando como **Web Developer (Desenvolvedor Web)**
 
-## 👔 Atuação Profissional
-  - Desenvolvedor Web - Estagiário | ServiceNet **(abril/2022 - atualmente)**
-  - Desenvolvedor Full Stack - Voluntário | Universi.me | UFPB **(maio/2023 - atualmente)**
-  - Desenvolvedor Web - Bolsista | AYTY | UFPB **(abril/2022 - atualmente)**
+## 👔 Experiência Profissional
+  - Desenvolvedor Web Front End - Estagiário | ServiceNet **(abril/2022 - janeiro/2024)**
+  - Desenvolvedor Web Full Stack - Voluntário | Universi.me | UFPB **(maio/2023 - junho/2024)**
+  - Desenvolvedor Web Full Stack - Bolsista | AYTY | UFPB **(abril/2022 - janeiro/2024)**
 
 ## 🔧 Habilidades
 
