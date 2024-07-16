@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/xeZVTzv.png" alt="Foto de Perfil">
+  <img src="https://i.imgur.com/18e1R4r.png" alt="Foto de Perfil">
 </p>
 
 # Olá, me chamo Matheus Felipe 😉👋🏼
