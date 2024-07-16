@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/Xdc5xWr.png" alt="Foto de Perfil">
+  <img src="https://i.imgur.com/xeZVTzv.png" alt="Foto de Perfil">
 </p>
 
 # Olá, me chamo Matheus Felipe 😉👋🏼
@@ -14,7 +14,7 @@ Eu sou formado em Sistemas de Informação (UFPB), e tenho experiência atuando 
 ## 🔧 Habilidades
 
 - **Linguagens de Programação:**
-  - Vue.js | React | JavaScript | HTML | CSS | Golang | TypeScript
+  - Vue.js | React | JavaScript | HTML | CSS | Golang | TypeScript | Java | Spring boot
     
 - **Ferramentas e Tecnologias:**
   - Docker | PostgreSQL | MySQL | Microsserviços
