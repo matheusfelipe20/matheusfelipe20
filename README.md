@@ -6,6 +6,9 @@
 Bem vindo ao meu espaço no GitHub! 
 Eu sou formado em Sistemas de Informação (UFPB), e tenho experiência atuando como **Web Developer (Desenvolvedor Web)**
 
+## 🎓 Formação acadêmica
+  - Bacharel em Sistemas de Informação - UFPB **(2020 - 2024)**
+
 ## 👔 Experiência Profissional
   - Desenvolvedor Web Front End - Estagiário | ServiceNet **(abril/2022 - janeiro/2024)**
   - Desenvolvedor Web Full Stack - Voluntário | Universi.me | UFPB **(maio/2023 - junho/2024)**
