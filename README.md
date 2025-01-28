@@ -17,10 +17,10 @@ Eu sou formado em Sistemas de Informação (UFPB), e tenho experiência atuando 
 ## 🔧 Habilidades
 
 - **Linguagens de Programação:**
-  - Vue.js | React | JavaScript | HTML | CSS | Golang | TypeScript | Java | Spring boot
+  - Vue.js | React | JavaScript | HTML | CSS | Golang | TypeScript | Java | Spring boot | SASS
     
 - **Ferramentas e Tecnologias:**
-  - Docker | PostgreSQL | MySQL | Microsserviços
+  - Docker | PostgreSQL | MySQL | Microsserviços | GIT | Metodologias Ágeis
   
 <div>
   <img align="center" alt="icon-vuejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
@@ -37,6 +37,6 @@ Eu sou formado em Sistemas de Informação (UFPB), e tenho experiência atuando 
 
 ## 📬 Entre em Contato
 <a href="https://www.linkedin.com/in/matheus-felipe-bandeira-oliveira-30a6b8206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="mailto:matheusfelipemf2018@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-White?style=for-the-badge&logo=gmail&color=white" target="_blank"></a>
+<a href="mailto:matheus.mf.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-White?style=for-the-badge&logo=gmail&color=white" target="_blank"></a>
 
 Sinta-se à vontade para explorar meus repositórios e projetos. 😃
